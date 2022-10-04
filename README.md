@@ -46,6 +46,9 @@ I live in Lima - Peru and I am passionate about programming. I am a beginner in 
 <p align="center">
 <a href="https://github.com/gustavopumachagua">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gustavopumachagua&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gustavopumachagua&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
