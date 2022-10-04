@@ -31,7 +31,7 @@ I live in Lima - Peru and I am passionate about programming. I am a beginner in 
 </br>
 <div display="inline-block">
  <p align="left">📚 I have studied Javascript and React in Platzi here I have my <a href="https://platzi.com/p/gustavopumachagua/" target="_blank">certificates.</a> </p>
-  <p align="left">📷 I share my experiences with career transition, study tips and technology in my <a href="https://gussdev.notion.site/Desarrollo-Web-cd33325b6e8b4db9bf28271a31d3743a" target="_blank">Blog.</a></p>
+  <p align="left">📷 I share my experiences with career transition, study tips and technology in my <a href="https://gussdev.notion.site/Desarrollo-Web-cd33325b6e8b4db9bf28271a31d3743a" target="_blank"  rel="nofollow">Blog.</a></p>
 
 </br>
 <div>
