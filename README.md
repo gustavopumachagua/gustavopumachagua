@@ -1,8 +1,8 @@
 <p align="center">
-<img align="center" src="./cat.gif" width="300" height="300">
+<img align="center" src="./cat.gif" width="250" height="250">
 </p>
 </br>
-<img align="right" width="200px" style="margin-top:10px" src="./perfil1.svg">
+<img align="right" width="250px" style="margin-top:20px" src="./perfil1.svg">
 
 </br>
 
@@ -20,7 +20,7 @@ I live in Lima - Peru and I am passionate about programming. I am a beginner in 
 
 ### 🖥️ Technologies and Tools:
 
-<img width="250px" style="margin-top:-30px" align="right" src="./perfil2.svg">
+<img width="300px" style="margin-top:-30px" align="right" src="./perfil2.svg">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title = "CSS"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
@@ -62,5 +62,9 @@ I live in Lima - Peru and I am passionate about programming. I am a beginner in 
   </br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gustavopumachagua&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </p>
+<div align="center">
+
+![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
+</div>
