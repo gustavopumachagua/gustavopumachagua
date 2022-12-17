@@ -39,7 +39,7 @@ I live in Lima - Peru and I am passionate about programming. I am a beginner in 
 </br>
 <div display="inline-block">
  <p align="left">📚 I have studied Web development in Platzi here I have my <a href="https://platzi.com/p/gustavopumachagua/" target="_blank">certificates.</a> </p>
-  <p align="left">📷 I share my experiences with career transition, study tips and technology in my <a href="https://gussdev.notion.site/Desarrollo-Web-cd33325b6e8b4db9bf28271a31d3743a" target="_blank"  rel="nofollow">Blog.</a></p>
+  <p align="left">📷 I share my experiences with career transition, study tips and technology in my <a href="https://www.notion.so/gussdev/Apuntes-3abec46a55c04b92ba7ea40f0ab117ba" target="_blank"  rel="nofollow">Blog.</a></p>
 
 </br>
 <div>
@@ -49,8 +49,8 @@ I live in Lima - Peru and I am passionate about programming. I am a beginner in 
 <a href="https://www.instagram.com/guss.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:rpumachaguahuertas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/Gussdev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/Gussdev" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/Gussdev" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
+<a href="https://gusscode.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+<a href="https://www.kaggle.com/gussdev" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
 <a href="https://open.spotify.com/user/12158138688?si=bd4531f86ea34cc5" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 <a href="https://www.notion.so/gussdev/Apuntes-3abec46a55c04b92ba7ea40f0ab117ba" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a>
 
