@@ -41,13 +41,8 @@ Soy un Data Scientist con experiencia en la manipulación de datos y la creació
 </br>
 </br>
 <div display="inline-block">
-<<<<<<< HEAD
  <p align="left">📚 He estudiado Data Science en Platzi aquí tengo mi  <a href="https://platzi.com/p/gustavopumachagua/" target="_blank">certificado.</a> </p>
   <p align="left">📷 Comparto mis experiencias, tips de estudio y tecnología en mi <a href="https://www.notion.so/gussdev/Apuntes-3abec46a55c04b92ba7ea40f0ab117ba" target="_blank"  rel="nofollow">Blog.</a></p>
-=======
- <p align="left">📚 I have studied Web development in Platzi here I have my <a href="https://platzi.com/p/gustavopumachagua/" target="_blank">certificates.</a> </p>
-  <p align="left">📷 I share my experiences with career transition, study tips and technology in my <a href="https://www.notion.so/gussdev/Apuntes-3abec46a55c04b92ba7ea40f0ab117ba" target="_blank"  rel="nofollow">Blog.</a></p>
->>>>>>> 448fd2523ea9d6d5953b1c6767fae41399a1f3bf
 
 </br>
 <div>
