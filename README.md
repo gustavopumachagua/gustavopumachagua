@@ -10,9 +10,7 @@
 
 </br>
 
-<p style="font-size: 15px;">Soy un Data Scientist con experiencia en la manipulación de datos y la creación de modelos predictivos para resolver problemas empresariales complejos. Mi enfoque se centra en la utilización de herramientas de análisis y estadística para proporcionar soluciones creativas y eficientes. Poseo habilidades en el manejo de lenguajes de programación como Python y R, y tengo experiencia trabajando con bases de datos relacionales y no relacionales.✌</p>
-
-</br>
+<p style="font-size: 20px;">Soy un Data Scientist con experiencia en la manipulación de datos y la creación de modelos predictivos para resolver problemas empresariales complejos. Mi enfoque se centra en la utilización de herramientas de análisis y estadística para proporcionar soluciones creativas y eficientes. Poseo habilidades en el manejo de lenguajes de programación como Python y R, y tengo experiencia trabajando con bases de datos relacionales y no relacionales.✌</p>
 
 ### 🖥️ **Tecnologías y Herramientas:**
 
