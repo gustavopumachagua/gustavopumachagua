@@ -6,20 +6,19 @@
 
 </br>
 
- <h1 align="center">Hi 👋, I'm Gustavo Pumachagua Perez</h1>
+ <h1 align="center"><b>Hola 👋 Soy GussDev </b></h1>
 
 </br>
 
-## Hello, Devs!!
-
-I live in Lima - Peru and I am passionate about programming. I am a beginner in the programming universe, a bug hunter and the more I learn and the more I get angry, the more I love it. ✌
+Soy un Data Scientist con experiencia en la manipulación de datos y la creación de modelos predictivos para resolver problemas empresariales complejos. Mi enfoque se centra en la utilización de herramientas de análisis y estadística para proporcionar soluciones creativas y eficientes. Poseo habilidades en el manejo de lenguajes de programación como Python y R, y tengo experiencia trabajando con bases de datos relacionales y no relacionales.✌
 
 </br>
 
 </br>
 
-### 🖥️ Technologies and Tools:
+### 🖥️ **Tecnologías y Herramientas:**
 
+</br>
 <img width="300px" style="margin-top:-30px" align="right" src="./perfil2.svg">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title = "CSS"/></code>
@@ -38,8 +37,8 @@ I live in Lima - Peru and I am passionate about programming. I am a beginner in 
 </br>
 </br>
 <div display="inline-block">
- <p align="left">📚 I have studied Web development in Platzi here I have my <a href="https://platzi.com/p/gustavopumachagua/" target="_blank">certificates.</a> </p>
-  <p align="left">📷 I share my experiences with career transition, study tips and technology in my <a href="https://gussdev.notion.site/Desarrollo-Web-cd33325b6e8b4db9bf28271a31d3743a" target="_blank"  rel="nofollow">Blog.</a></p>
+ <p align="left">📚 He estudiado Data Science en Platzi aquí tengo mi  <a href="https://platzi.com/p/gustavopumachagua/" target="_blank">certificado.</a> </p>
+  <p align="left">📷 Comparto mis experiencias, tips de estudio y tecnología en mi <a href="https://www.notion.so/gussdev/Apuntes-3abec46a55c04b92ba7ea40f0ab117ba" target="_blank"  rel="nofollow">Blog.</a></p>
 
 </br>
 <div>
