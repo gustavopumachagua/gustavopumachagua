@@ -1,84 +1,33 @@
-<css>
-<style>
-.image-container {
-  text-align: center;
-}
-</style>
-
-<css>
-<style>
-.image-container img {
-  border: 5px solid #ccc;
+</br>
+<div style=" text-align: center;">
+  <img style="  border: 5px solid #ccc;
   box-shadow: 2px 2px 5px #ccc;
   border-radius: 10px;
   margin: 5px;
-  padding: 10px;
-}
-</style>
-
-<css>
-<style>
-.container {
-  display: flex;
-  flex-direction: row;
-}
-</style>
-
-<css>
-<style>
-.column1 {
-  flex: 1;
-  padding-right: 20px;
-}
-</style>
-
-<css>
-<style>
-.column2 {
-  flex: 1;
-}
-</style>
-
-<css>
-<style>
-.container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  grid-gap: 20px;
-}
-</style>
-
-<css>
-<style>
-.col-md-6 {
-  width: 100%;
-}
-</style>
-
-<css>
-<style>
-img {
-  max-width: 100%;
-  height: auto;
-}
-</style>
-
-</br>
-<div class="image-container">
-  <img src="./cat.gif" alt="gato tecleando"  width="250" height="250">
+  padding: 10px;" src="./cat.gif" alt="gato tecleando"  width="250" height="250">
 </div>
+
+---
+
 </br>
 <div style="text-align: center;">
   <h1><b>Hola 👋 Soy Gustavo Pumachagua Perez </b></h1>
 </div>
 </br>
-<div class="container">
-  <div class="column1">
+<div style="  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-gap: 20px;">
+  <div style="  flex: 1;
+  padding-right: 20px;">
     <p style="font-size: 16px;">Soy un Data Scientist con experiencia en la manipulación de datos y la creación de modelos predictivos para resolver problemas empresariales complejos. Mi enfoque se centra en la utilización de herramientas de análisis y estadística para proporcionar soluciones creativas y eficientes. Poseo habilidades en el manejo de lenguajes de programación como Python y tengo experiencia trabajando con bases de datos relacionales y no relacionales.✌</p>
   </div>
-  <div class="column2">
-    <div class="image-container">
-  <img src="./perfil1.svg" alt="gato tecleando"  width="250" height="250">
+  <div style="flex: 1;">
+    <div style=" text-align: center;">
+  <img style="  border: 5px solid #ccc;
+  box-shadow: 2px 2px 5px #ccc;
+  border-radius: 10px;
+  margin: 5px;
+  padding: 10px;" src="./perfil1.svg" alt="gato tecleando"  width="250" height="250">
 </div>
   </div>
 </div>
@@ -91,8 +40,9 @@ img {
   <h1><b>🖥️ Tecnologías y Herramientas</b></h1>
 </div>
 </br>
-<div class="container">
-  <div class="column1">
+<div style=" text-align: center;">
+  <div style="  flex: 1;
+  padding-right: 20px;">
     <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title = "CSS"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
@@ -112,9 +62,13 @@ img {
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" title = "kaggle"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title = "numpy"/></code>
   </div>
-  <div class="column2">
-  <div class="image-container">
-    <img src="./perfil2.svg" alt="placeholder image">
+  <div style="flex: 1;">
+  <div style=" text-align: center;">
+    <img style="  border: 5px solid #ccc;
+  box-shadow: 2px 2px 5px #ccc;
+  border-radius: 10px;
+  margin: 5px;
+  padding: 10px;" src="./perfil2.svg" alt="placeholder image">
     </div>
   </div>
 </div>
