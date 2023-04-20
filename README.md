@@ -1,34 +1,36 @@
-</br>
-<div align="center">
-<img  src="./cat.gif" alt="gato tecleando"  width="250" height="250">
-</div>
-</br>
-
----
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/gustavopumachagua?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/gustavopumachagua?style=social"> &nbsp;&nbsp; <img alt="gustavopumachagua | Count Views" src="https://img.shields.io/github/watchers/gustavopumachagua/gustavopumachagua.svg" />
 
 <div align="center">
-<h1><b>Hola 👋 Soy Gustavo Pumachagua Perez </b></h1>
-</div>
-</br>
-
-<div align="center" >
-<p style="font-size: 16px;">Soy un Data Scientist con experiencia en la manipulación de datos y la creación de modelos predictivos para resolver problemas empresariales complejos. Mi enfoque se centra en la utilización de herramientas de análisis y estadística para proporcionar soluciones creativas y eficientes. Poseo habilidades en el manejo de lenguajes de programación como Python y tengo experiencia trabajando con bases de datos relacionales y no relacionales.✌</p>
-</div>
-</br>
-
-<div align="center">
-<img  src="./perfil1.svg" alt="gato tecleando"  width="250" height="250">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%FFD93D&size=50&center=true&vCenter=true&height=100&width=1000&lines=¡Hola!+Soy+Gustavo+Pumachagua+Perez+%3C3;¡Bienvenido+a+mi+Perfil!" alt="Title"></img>
 </div>
 
----
+***
 
-</br>
-<div align="center">
-  <h1><b>🖥️ Tecnologías y Herramientas</b></h1>
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Acerca de mí
+
+- :credit_card: Mi Nombre es **Gustavo** <img src="./cat.gif" width="250" align="right"/>
+- :school: Soy egresado de la **Universidad Nacional del Callao**
+- :books: Mi profesión es **Ingeniería de Sistemas** con especialidad en **Data Science**
+- :earth_asia: Vivo ahora en **Lima, Perú**
+
+<div align="left">
+<p>📚 He estudiado Data Science en Platzi aquí tengo mi  <a href="https://platzi.com/p/gustavopumachagua/" target="_blank">certificado.</a> </p>
+<p>📷 Comparto mis experiencias, tips de estudio y tecnología en mi <a href="https://www.notion.so/gussdev/Apuntes-3abec46a55c04b92ba7ea40f0ab117ba" target="_blank"  rel="nofollow">Blog.</a></p>
 </div>
-</br>
 
-<div align="center">
+<div align="left">
+  <p >
+Soy un Data Scientist con experiencia en la manipulación de datos y la creación de modelos predictivos para resolver problemas empresariales complejos. Mi enfoque se centra en la utilización de herramientas de análisis y estadística para proporcionar soluciones creativas y eficientes. Poseo habilidades en el manejo de lenguajes de programación como Python y tengo experiencia trabajando con bases de datos relacionales y no relacionales.✌
+  </p>
+</div>
+
+***
+
+<img alt="perfil-1" src="./perfil1.svg" align="right" width="250"/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> Tecnologías y Herramientas
+</br>
+<div align="left">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title = "CSS"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
@@ -47,39 +49,28 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title = "jupyter"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title = "numpy"/></code>
 </div>
+
+***
+
 </br>
 
 # **📜 Habilidades**
-* Conocimientos en matemáticas y estadística: incluyendo álgebra, cálculo, probabilidad, estadística descriptiva e inferencial, etc.
 
-* Programación: habilidades en lenguajes de programación como Python, R, SQL, etc.
 
-* Análisis de datos: capacidad para recopilar, limpiar, transformar y visualizar datos utilizando herramientas y técnicas como pandas, matplotlib, Tableau, etc.
+- 📔 Conocimientos en matemáticas y estadística. <img src="./perfil2.svg" width="350" align="right"/>
+- 📗 Habilidades en lenguajes de programación como Python, SQL.
+- 📚 Capacidad para recopilar, limpiar, transformar y visualizar datos.
+- 📙 Habilidades en la construcción y aplicación de modelos de aprendizaje automático.
+- 📓 Habilidades para comunicar los hallazgos y resultados del análisis de datos a diferentes audiencias.
+- 📑 Habilidad para evaluar de manera crítica los resultados del análisis de datos, identificar errores.
+- 📃 Capacidad para encontrar soluciones innovadoras a problemas complejos y diseñar experimentos.
+- 📖 Capacidad para comprender los objetivos comerciales y la estrategia de la empresa.
 
-* Aprendizaje automático: habilidades en la construcción y aplicación de modelos de aprendizaje automático para resolver problemas de clasificación, regresión, clustering, etc.
+***
 
-* Comunicación: habilidades para comunicar los hallazgos y resultados del análisis de datos a diferentes audiencias, incluyendo a los no técnicos.
-
-* Pensamiento crítico: habilidad para evaluar de manera crítica los resultados del análisis de datos, identificar errores y tener un enfoque riguroso en el proceso de toma de decisiones.
-
-* Creatividad: capacidad para encontrar soluciones innovadoras a problemas complejos y diseñar experimentos creativos para recopilar datos.
-
-* Habilidades empresariales: capacidad para comprender los objetivos comerciales y la estrategia de la empresa y aplicar el análisis de datos para mejorar los resultados empresariales.
-
-<div align="center">
-<img  src="./perfil2.svg" alt="placeholder image">
-</div>
 </br>
 
----
-
-<div align="center">
-<p style="font-size: 16px;">📚 He estudiado Data Science en Platzi aquí tengo mi  <a href="https://platzi.com/p/gustavopumachagua/" target="_blank">certificado.</a> </p>
-<p style="font-size: 15px;">📷 Comparto mis experiencias, tips de estudio y tecnología en mi <a href="https://www.notion.so/gussdev/Apuntes-3abec46a55c04b92ba7ea40f0ab117ba" target="_blank"  rel="nofollow">Blog.</a></p>
-</div>
-
----
-
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> **Contactos**
 </br>
 <div align="center">
 <a href="https://www.instagram.com/guss.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -95,6 +86,9 @@
 ---
 
 </br>
+
+## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="60px" height="50px"> **GitHub Analytics**
+
 <div align="center">
 <a href="https://github.com/gustavopumachagua">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gustavopumachagua&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
