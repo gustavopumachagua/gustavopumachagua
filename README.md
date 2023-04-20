@@ -1,8 +1,12 @@
+<css>
 <style>
 .image-container {
   text-align: center;
 }
+</style>
 
+<css>
+<style>
 .image-container img {
   border: 5px solid #ccc;
   box-shadow: 2px 2px 5px #ccc;
@@ -10,38 +14,55 @@
   margin: 5px;
   padding: 10px;
 }
+</style>
 
+<css>
+<style>
 .container {
   display: flex;
   flex-direction: row;
 }
+</style>
 
+<css>
+<style>
 .column1 {
   flex: 1;
   padding-right: 20px;
 }
+</style>
 
+<css>
+<style>
 .column2 {
   flex: 1;
 }
+</style>
 
+<css>
+<style>
 .container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   grid-gap: 20px;
 }
+</style>
 
+<css>
+<style>
 .col-md-6 {
   width: 100%;
 }
+</style>
 
+<css>
+<style>
 img {
   max-width: 100%;
   height: auto;
 }
-
-
 </style>
+
 </br>
 <div class="image-container">
   <img src="./cat.gif" alt="gato tecleando"  width="250" height="250">
