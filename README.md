@@ -97,12 +97,16 @@ Soy un Data Scientist con experiencia en la manipulación de datos y la creació
 </a>
 </div>
 
+***
+
 </br>
 <div align="center">
 
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+***
 
 <div align="center">
   :heart_eyes: ¡Gracias por ver mi perfil!, ¡Que tenga un lindo día! :wink: <br/>
