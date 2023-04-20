@@ -51,6 +51,23 @@
 </div>
 </br>
 
+### **📜 Habilidades**
+* Conocimientos en matemáticas y estadística: incluyendo álgebra, cálculo, probabilidad, estadística descriptiva e inferencial, etc.
+
+* Programación: habilidades en lenguajes de programación como Python, R, SQL, etc.
+
+* Análisis de datos: capacidad para recopilar, limpiar, transformar y visualizar datos utilizando herramientas y técnicas como pandas, matplotlib, Tableau, etc.
+
+* Aprendizaje automático: habilidades en la construcción y aplicación de modelos de aprendizaje automático para resolver problemas de clasificación, regresión, clustering, etc.
+
+* Comunicación: habilidades para comunicar los hallazgos y resultados del análisis de datos a diferentes audiencias, incluyendo a los no técnicos.
+
+* Pensamiento crítico: habilidad para evaluar de manera crítica los resultados del análisis de datos, identificar errores y tener un enfoque riguroso en el proceso de toma de decisiones.
+
+* Creatividad: capacidad para encontrar soluciones innovadoras a problemas complejos y diseñar experimentos creativos para recopilar datos.
+
+* Habilidades empresariales: capacidad para comprender los objetivos comerciales y la estrategia de la empresa y aplicar el análisis de datos para mejorar los resultados empresariales.
+
 <div style=" text-align: center;">
 <img  src="./perfil2.svg" alt="placeholder image" align="center">
 </div>
