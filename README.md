@@ -1,35 +1,35 @@
 </br>
-<div style=" text-align: center;">
-<img  src="./cat.gif" alt="gato tecleando"  width="250" height="250" align="center">
+<div align="center">
+<img  src="./cat.gif" alt="gato tecleando"  width="250" height="250">
 </div>
 </br>
 
 ---
 
 </br>
-<div style="text-align: center;">
+<div align="center">
 <h1><b>Hola 👋 Soy Gustavo Pumachagua Perez </b></h1>
 </div>
 </br>
 
-<div style="text-align: center;" >
+<div align="center" >
 <p style="font-size: 16px;">Soy un Data Scientist con experiencia en la manipulación de datos y la creación de modelos predictivos para resolver problemas empresariales complejos. Mi enfoque se centra en la utilización de herramientas de análisis y estadística para proporcionar soluciones creativas y eficientes. Poseo habilidades en el manejo de lenguajes de programación como Python y tengo experiencia trabajando con bases de datos relacionales y no relacionales.✌</p>
 </div>
 </br>
 
-<div style=" text-align: center;">
-<img  src="./perfil1.svg" alt="gato tecleando"  width="250" height="250" align="center">
+<div align="center">
+<img  src="./perfil1.svg" alt="gato tecleando"  width="250" height="250">
 </div>
 
 ---
 
 </br>
-<div style="text-align: center;">
+<div align="center">
   <h1><b>🖥️ Tecnologías y Herramientas</b></h1>
 </div>
 </br>
 
-<div style=" text-align: center;">
+<div align="center">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title = "CSS"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
@@ -68,15 +68,15 @@
 
 * Habilidades empresariales: capacidad para comprender los objetivos comerciales y la estrategia de la empresa y aplicar el análisis de datos para mejorar los resultados empresariales.
 
-<div style=" text-align: center;">
-<img  src="./perfil2.svg" alt="placeholder image" align="center">
+<div align="center">
+<img  src="./perfil2.svg" alt="placeholder image">
 </div>
 </br>
 
 ---
 
 </br>
-<div style="text-align: center;">
+<div align="center">
 <p style="font-size: 16px;">📚 He estudiado Data Science en Platzi aquí tengo mi  <a href="https://platzi.com/p/gustavopumachagua/" target="_blank">certificado.</a> </p>
 <p style="font-size: 15px;">📷 Comparto mis experiencias, tips de estudio y tecnología en mi <a href="https://www.notion.so/gussdev/Apuntes-3abec46a55c04b92ba7ea40f0ab117ba" target="_blank"  rel="nofollow">Blog.</a></p>
 </div>
@@ -84,7 +84,7 @@
 ---
 
 </br>
-<div style="text-align: center;">
+<div align="center">
 <a href="https://www.instagram.com/guss.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:rpumachaguahuertas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/Gussdev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -98,7 +98,7 @@
 ---
 
 </br>
-<div style="text-align: center;">
+<div align="center">
 <a href="https://github.com/gustavopumachagua">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gustavopumachagua&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </br>
@@ -107,7 +107,7 @@
 </div>
 
 </br>
-<div style="text-align: center;">
+<div align="center">
 
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
