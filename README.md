@@ -1,49 +1,36 @@
 </br>
 <div style=" text-align: center;">
-  <img style="  border: 5px solid #ccc;
-  box-shadow: 2px 2px 5px #ccc;
-  border-radius: 10px;
-  margin: 5px;
-  padding: 10px;" src="./cat.gif" alt="gato tecleando"  width="250" height="250">
+<img  src="./cat.gif" alt="gato tecleando"  width="250" height="250" align="center">
 </div>
+</br>
 
 ---
 
 </br>
 <div style="text-align: center;">
-  <h1><b>Hola 👋 Soy Gustavo Pumachagua Perez </b></h1>
+<h1><b>Hola 👋 Soy Gustavo Pumachagua Perez </b></h1>
 </div>
 </br>
-<div style="  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  grid-gap: 20px;">
-  <div style="  flex: 1;
-  padding-right: 20px;">
-    <p style="font-size: 16px;">Soy un Data Scientist con experiencia en la manipulación de datos y la creación de modelos predictivos para resolver problemas empresariales complejos. Mi enfoque se centra en la utilización de herramientas de análisis y estadística para proporcionar soluciones creativas y eficientes. Poseo habilidades en el manejo de lenguajes de programación como Python y tengo experiencia trabajando con bases de datos relacionales y no relacionales.✌</p>
-  </div>
-  <div style="flex: 1;">
-    <div style=" text-align: center;">
-  <img style="  border: 5px solid #ccc;
-  box-shadow: 2px 2px 5px #ccc;
-  border-radius: 10px;
-  margin: 5px;
-  padding: 10px;" src="./perfil1.svg" alt="gato tecleando"  width="250" height="250">
+
+<div style="text-align: center;" >
+<p style="font-size: 16px;">Soy un Data Scientist con experiencia en la manipulación de datos y la creación de modelos predictivos para resolver problemas empresariales complejos. Mi enfoque se centra en la utilización de herramientas de análisis y estadística para proporcionar soluciones creativas y eficientes. Poseo habilidades en el manejo de lenguajes de programación como Python y tengo experiencia trabajando con bases de datos relacionales y no relacionales.✌</p>
 </div>
-  </div>
+</br>
+
+<div style=" text-align: center;">
+<img  src="./perfil1.svg" alt="gato tecleando"  width="250" height="250" align="center">
 </div>
 
 ---
 
 </br>
-
 <div style="text-align: center;">
   <h1><b>🖥️ Tecnologías y Herramientas</b></h1>
 </div>
 </br>
+
 <div style=" text-align: center;">
-  <div style="  flex: 1;
-  padding-right: 20px;">
-    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title = "CSS"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "REACT"/></code>
@@ -61,17 +48,13 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title = "jupyter"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" title = "kaggle"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title = "numpy"/></code>
-  </div>
-  <div style="flex: 1;">
-  <div style=" text-align: center;">
-    <img style="  border: 5px solid #ccc;
-  box-shadow: 2px 2px 5px #ccc;
-  border-radius: 10px;
-  margin: 5px;
-  padding: 10px;" src="./perfil2.svg" alt="placeholder image">
-    </div>
-  </div>
 </div>
+</br>
+
+<div style=" text-align: center;">
+<img  src="./perfil2.svg" alt="placeholder image" align="center">
+</div>
+</br>
 
 ---
 
