@@ -51,7 +51,7 @@
 </div>
 </br>
 
-## **📜 Habilidades**
+# **📜 Habilidades**
 * Conocimientos en matemáticas y estadística: incluyendo álgebra, cálculo, probabilidad, estadística descriptiva e inferencial, etc.
 
 * Programación: habilidades en lenguajes de programación como Python, R, SQL, etc.
