@@ -8,19 +8,19 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Acerca de mí
 
-- :credit_card: Mi Nombre es **Gustavo** <img src="./cat.gif" width="250" align="right"/>
+- :credit_card: Mi Nombre es **Gustavo Pumachagua Perez** <img src="./cat.gif" width="250" align="right"/>
 - :school: Soy egresado de la **Universidad Nacional del Callao**
 - :books: Mi profesión es **Ingeniería de Sistemas** con especialidad en **Data Science**
-- :earth_asia: Vivo ahora en **Lima, Perú**
+- :earth_asia: Vivo en **Lima, Perú**
 
 <div align="left">
-<p>📚 He estudiado Data Science en Platzi aquí tengo mi  <a href="https://platzi.com/p/gustavopumachagua/" target="_blank">certificado.</a> </p>
+<p>📚 He realizado diferentes cursos, aquí tengo mis  <a href="https://platzi.com/p/gustavopumachagua/" target="_blank">certificados.</a> </p>
 <p>📷 Comparto mis experiencias, tips de estudio y tecnología en mi <a href="https://www.notion.so/gussdev/Apuntes-3abec46a55c04b92ba7ea40f0ab117ba" target="_blank"  rel="nofollow">Blog.</a></p>
 </div>
 
 <div align="left">
   <p >
-Soy un Data Scientist con experiencia en la manipulación de datos y la creación de modelos predictivos para resolver problemas empresariales complejos. Mi enfoque se centra en la utilización de herramientas de análisis y estadística para proporcionar soluciones creativas y eficientes. Poseo habilidades en el manejo de lenguajes de programación como Python y tengo experiencia trabajando con bases de datos relacionales y no relacionales.✌
+Soy un Data Scientist con experiencia en la manipulación de datos y la creación de modelos predictivos para resolver problemas empresariales complejos. Mi enfoque se centra en la utilización de herramientas de análisis y estadística para proporcionar soluciones creativas y eficientes. Poseo habilidades en el manejo de lenguajes de programación como Python, SQL y tengo experiencia trabajando con bases de datos relacionales y no relacionales.✌
   </p>
 </div>
 
