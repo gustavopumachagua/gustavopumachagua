@@ -6,7 +6,6 @@
 
 ---
 
-</br>
 <div align="center">
 <h1><b>Hola 👋 Soy Gustavo Pumachagua Perez </b></h1>
 </div>
@@ -75,7 +74,6 @@
 
 ---
 
-</br>
 <div align="center">
 <p style="font-size: 16px;">📚 He estudiado Data Science en Platzi aquí tengo mi  <a href="https://platzi.com/p/gustavopumachagua/" target="_blank">certificado.</a> </p>
 <p style="font-size: 15px;">📷 Comparto mis experiencias, tips de estudio y tecnología en mi <a href="https://www.notion.so/gussdev/Apuntes-3abec46a55c04b92ba7ea40f0ab117ba" target="_blank"  rel="nofollow">Blog.</a></p>
