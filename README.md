@@ -26,12 +26,10 @@ Soy un Data Scientist con experiencia en la manipulación de datos y la creació
 
 ***
 
-<img alt="perfil-1" src="./perfil1.svg" align="right" width="250"/>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> Tecnologías y Herramientas
 </br>
-<div align="left">
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML"/></code>
+<div align="left"> <img alt="perfil-1" src="./perfil1.svg" align="right" width="250"/>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML"/></code> 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title = "CSS"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "REACT"/></code>
@@ -49,10 +47,13 @@ Soy un Data Scientist con experiencia en la manipulación de datos y la creació
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title = "jupyter"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title = "numpy"/></code>
 </div>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ***
-
-</br>
 
 # **📜 Habilidades**
 
