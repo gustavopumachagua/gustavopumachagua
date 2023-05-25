@@ -15,7 +15,7 @@
 
 <div align="left">
 <p>📚 He realizado diferentes cursos, aquí tengo mis  <a href="https://platzi.com/p/gustavopumachagua/" target="_blank">certificados.</a> </p>
-<p>📷 Comparto mis experiencias, tips de estudio y tecnología en mi <a href="https://www.notion.so/gussdev/Apuntes-3abec46a55c04b92ba7ea40f0ab117ba" target="_blank"  rel="nofollow">Notas.</a></p>
+<p>📷 Comparto mis <a href="https://www.notion.so/gussdev/Apuntes-3abec46a55c04b92ba7ea40f0ab117ba" target="_blank"  rel="nofollow">Notas.</a></p>
 </div>
 
 <div align="left">
