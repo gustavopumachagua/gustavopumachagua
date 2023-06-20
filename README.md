@@ -1,4 +1,4 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/gustavopumachagua?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/gustavopumachagua?style=social"> &nbsp;&nbsp; <img alt="gustavopumachagua | Count Views" src="https://img.shields.io/github/watchers/gustavopumachagua/gustavopumachagua.svg" />
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%FFD93D&size=50&center=true&vCenter=true&height=100&width=1000&lines=¡Hola!+Soy+Gustavo+Pumachagua+Perez+%3C3;¡Bienvenido+a+mi+Perfil!" alt="Title"></img>
