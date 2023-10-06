@@ -10,7 +10,7 @@
 
 <div align="left">
 <p>📚 He realizado diferentes cursos, aquí tengo mis  <a href="https://platzi.com/p/gustavopumachagua/" target="_blank">certificados.</a> </p>
-<p>📷 Comparto mis <a href="https://www.notion.so/gussdev/Apuntes-3abec46a55c04b92ba7ea40f0ab117ba" target="_blank"  rel="nofollow">Apuntes.</a></p>
+<p>📷 Comparto mis <a href="https://github.com/gustavopumachagua/Curso_Data_Science" target="_blank"  rel="nofollow">Apuntes.</a></p>
 </div>
 
 <div align="left">
@@ -78,7 +78,7 @@ Soy un Data Scientist con experiencia en la manipulación de datos y la creació
 <a href="https://gusscode.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 <a href="https://www.kaggle.com/gussdev" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
 <a href="https://open.spotify.com/user/12158138688?si=bd4531f86ea34cc5" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-<a href="https://github.com/gustavopumachagua/Curso_Data_Science" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a>
+<a href="https://www.notion.so/gussdev/Apuntes-3abec46a55c04b92ba7ea40f0ab117ba" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a>
 
 </div>
 
