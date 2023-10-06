@@ -1,17 +1,12 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%FFD93D&size=50&center=true&vCenter=true&height=100&width=1000&lines=¡Hola!+Soy+Gustavo+Pumachagua+Perez+%3C3;¡Bienvenido+a+mi+Perfil!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%FFD93D&size=50&center=true&vCenter=true&height=100&width=1000&lines=¡Hola!+Soy+Gustavo+%3C3;¡Bienvenido+a+mi+Perfil!" alt="Title"></img>
 </div>
 
 ***
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Acerca de mí
-
-- :credit_card: Mi Nombre es **Gustavo Pumachagua Perez** <img src="./cat.gif" width="250" align="right"/>
-- :school: Soy egresado de la **Universidad Nacional del Callao**
-- :books: Mi profesión es **Ingeniería de Sistemas** con especialidad en **Data Science**
-- :earth_asia: Vivo en **Lima, Perú**
 
 <div align="left">
 <p>📚 He realizado diferentes cursos, aquí tengo mis  <a href="https://platzi.com/p/gustavopumachagua/" target="_blank">certificados.</a> </p>
@@ -83,7 +78,7 @@ Soy un Data Scientist con experiencia en la manipulación de datos y la creació
 <a href="https://gusscode.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 <a href="https://www.kaggle.com/gussdev" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
 <a href="https://open.spotify.com/user/12158138688?si=bd4531f86ea34cc5" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-<a href="https://www.notion.so/gussdev/Apuntes-3abec46a55c04b92ba7ea40f0ab117ba" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a>
+<a href="https://github.com/gustavopumachagua/Curso_Data_Science" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a>
 
 </div>
 
@@ -114,5 +109,5 @@ Soy un Data Scientist con experiencia en la manipulación de datos y la creació
 
 <div align="center">
   :heart_eyes: ¡Gracias por ver mi perfil!, ¡Que tenga un lindo día! :wink: <br/>
-  &copy; 2023 GussDev
+  &copy; 2024 GussDev
 </div>
