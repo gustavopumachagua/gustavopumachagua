@@ -1,5 +1,3 @@
-***
-
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Acerca de mí
 
 <div align="left">
@@ -58,5 +56,3 @@ Soy un Data Scientist con experiencia en la manipulación de datos y la creació
 - 📑 Habilidad para evaluar de manera crítica los resultados del análisis de datos, identificar errores.
 - 📃 Capacidad para encontrar soluciones innovadoras a problemas complejos y diseñar experimentos.
 - 📖 Capacidad para comprender los objetivos comerciales y la estrategia de la empresa.
-
-***
