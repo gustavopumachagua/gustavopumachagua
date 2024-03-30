@@ -1,9 +1,3 @@
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%FFD93D&size=50&center=true&vCenter=true&height=100&width=1000&lines=¡Hola!+Soy+Gustavo+%3C3;¡Bienvenido+a+mi+Perfil!" alt="Title"></img>
-</div>
-
 ***
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Acerca de mí
@@ -66,47 +60,3 @@ Soy un Data Scientist con experiencia en la manipulación de datos y la creació
 - 📖 Capacidad para comprender los objetivos comerciales y la estrategia de la empresa.
 
 ***
-
-</br>
-
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> **Contactos**
-</br>
-<div align="center">
-<a href="https://www.instagram.com/guss.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:rpumachaguahuertas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/Gussdev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://gusscode.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-<a href="https://open.spotify.com/user/12158138688?si=bd4531f86ea34cc5" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-<a href="https://www.notion.so/gussdev/Apuntes-3abec46a55c04b92ba7ea40f0ab117ba" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a>
-
-</div>
-
----
-
-</br>
-
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="60px" height="50px"> **GitHub Analytics**
-
-<div align="center">
-<a href="https://github.com/gustavopumachagua">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gustavopumachagua&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </br>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gustavopumachagua&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</div>
-
-***
-
-</br>
-<div align="center">
-
-![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-***
-
-<div align="center">
-  :heart_eyes: ¡Gracias por ver mi perfil!, ¡Que tenga un lindo día! :wink: <br/>
-  &copy; 2024 GussDev
-</div>
