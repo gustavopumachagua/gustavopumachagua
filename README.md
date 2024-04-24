@@ -2,7 +2,7 @@
 
 <div align="left">
 <p>📚 He realizado diferentes cursos, aquí tengo mis  <a href="https://platzi.com/p/gustavopumachagua/" target="_blank">certificados.</a> </p>
-<p>📷 Comparto mis <a href="https://github.com/gustavopumachagua/Curso_Data_Science" target="_blank"  rel="nofollow">Apuntes.</a></p>
+<p>📷 Comparto mis <a href="https://github.com/gustavopumachagua/AI_and_Data_Scientist_Roadmap" target="_blank"  rel="nofollow">Apuntes.</a></p>
 </div>
 
 <div align="left">
