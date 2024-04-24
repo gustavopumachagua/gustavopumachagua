@@ -7,7 +7,7 @@
 
 <div align="left">
   <p >
-Soy un Data Scientist con experiencia en la manipulación de datos y la creación de modelos predictivos para resolver problemas empresariales complejos. Mi enfoque se centra en la utilización de herramientas de análisis y estadística para proporcionar soluciones creativas y eficientes. Poseo habilidades en el manejo de lenguajes de programación como Python, SQL y tengo experiencia trabajando con bases de datos relacionales y no relacionales.✌
+Soy un Data Scientist con experiencia en la manipulación de datos y la creación de modelos predictivos para resolver problemas empresariales complejos. Mi enfoque se centra en la utilización de herramientas de análisis y estadística para proporcionar soluciones creativas y eficientes. Poseo habilidades en el manejo de lenguajes de programación como Python, SQL y tengo experiencia trabajando con bases de datos relacionales y no relacionales.
   </p>
 </div>
 
