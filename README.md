@@ -7,7 +7,13 @@
 
 <div align="left">
   <p >
-Soy un Data Scientist con experiencia en la manipulación de datos y la creación de modelos predictivos para resolver problemas empresariales complejos. Mi enfoque se centra en la utilización de herramientas de análisis y estadística para proporcionar soluciones creativas y eficientes. Poseo habilidades en el manejo de lenguajes de programación como Python, SQL y tengo experiencia trabajando con bases de datos relacionales y no relacionales.
+Egresado en Ingeniería de Sistemas con una sólida base técnica y pasión por el análisis de datos, procesos ETL y desarrollo frontend. Poseo habilidades en programación con Python, SQL, HTML, CSS, JavaScript y React, complementadas con experiencia en análisis estadístico y aprendizaje automático.
+
+Tengo experiencia práctica en herramientas de visualización como Excel y Power BI, con capacidad para transformar datos complejos en insights accionables y comprensibles. Además, cuento con conocimientos en procesos ETL (Extracción, Transformación y Carga), gestionando y preparando datos para proyectos estratégicos.
+
+En el ámbito del desarrollo frontend, he trabajado en la creación de interfaces de usuario responsivas, accesibles e intuitivas, aplicando buenas prácticas de diseño y usabilidad. Estoy familiarizado con herramientas de control de versiones como Git y con la aplicación de metodologías ágiles para el desarrollo de proyectos colaborativos.
+
+Mi objetivo es integrar mi pasión por los datos y el diseño para contribuir al desarrollo de soluciones innovadoras basadas en datos y proyectos frontend, donde pueda aportar valor y seguir creciendo profesionalmente.
   </p>
 </div>
 
@@ -28,13 +34,13 @@ Soy un Data Scientist con experiencia en la manipulación de datos y la creació
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title = "Postgresql"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title = "linux"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title = "doker"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title = "tensorflow"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title = "googlecloud"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" title = "anaconda"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" title = "matplotlib"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title = "github"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" title = "ScikitLearn"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title = "jupyter"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title = "numpy"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" title = "pytorch"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title = "selenium"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" title = "sql"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" title = "nodejs"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title = "mysql"/></code>                   
 </div>
 </br>
