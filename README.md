@@ -7,13 +7,9 @@
 
 <div align="left">
   <p >
-Egresado en Ingeniería de Sistemas con una sólida base técnica y pasión por el análisis de datos, procesos ETL y desarrollo frontend. Poseo habilidades en programación con Python, SQL, HTML, CSS, JavaScript y React, complementadas con experiencia en análisis estadístico y aprendizaje automático.
-
-Tengo experiencia práctica en herramientas de visualización como Excel y Power BI, con capacidad para transformar datos complejos en insights accionables y comprensibles. Además, cuento con conocimientos en procesos ETL (Extracción, Transformación y Carga), gestionando y preparando datos para proyectos estratégicos.
-
-En el ámbito del desarrollo frontend, he trabajado en la creación de interfaces de usuario responsivas, accesibles e intuitivas, aplicando buenas prácticas de diseño y usabilidad. Estoy familiarizado con herramientas de control de versiones como Git y con la aplicación de metodologías ágiles para el desarrollo de proyectos colaborativos.
-
-Mi objetivo es integrar mi pasión por los datos y el diseño para contribuir al desarrollo de soluciones innovadoras basadas en datos y proyectos frontend, donde pueda aportar valor y seguir creciendo profesionalmente.
+Egresado en Ingeniería de Sistemas con sólida base técnica y un enfoque creciente en ciberseguridad, especialmente en el ámbito del hacking ético. Poseo conocimientos fundamentales en redes, sistemas operativos, análisis de vulnerabilidades y herramientas de pentesting, complementados con experiencia práctica en plataformas como Hack The Box y laboratorios de seguridad.
+Tengo habilidades en programación con Python y Bash, orientadas al desarrollo de scripts para automatización de tareas de análisis y pruebas de seguridad. Manejo comandos esenciales en entornos Linux y herramientas de uso frecuente en auditorías como Nmap, Masscan, Nikto, Burp Suite, Wireshark, y Metasploit.
+Mi experiencia previa en análisis de datos y desarrollo frontend me permite tener una visión integral tanto del backend como del frontend de las aplicaciones, lo cual es clave para identificar vulnerabilidades desde múltiples perspectivas. Además, estoy familiarizado con metodologías ágiles, control de versiones con Git, y buenas prácticas en documentación técnica y reportes de vulnerabilidades.
   </p>
 </div>
 
@@ -54,11 +50,12 @@ Mi objetivo es integrar mi pasión por los datos y el diseño para contribuir al
 # **📜 Habilidades**
 
 
-- 📔 Conocimientos en matemáticas y estadística. <img src="./perfil2.svg" width="350" align="right"/>
-- 📗 Habilidades en lenguajes de programación como Python, SQL.
-- 📚 Capacidad para recopilar, limpiar, transformar y visualizar datos.
-- 📙 Habilidades en la construcción y aplicación de modelos de aprendizaje automático.
-- 📓 Habilidades para comunicar los hallazgos y resultados del análisis de datos a diferentes audiencias.
-- 📑 Habilidad para evaluar de manera crítica los resultados del análisis de datos, identificar errores.
-- 📃 Capacidad para encontrar soluciones innovadoras a problemas complejos y diseñar experimentos.
-- 📖 Capacidad para comprender los objetivos comerciales y la estrategia de la empresa.
+- 📔 Lenguajes de Programación: Python (automatización, scripting para pentesting), SQL (inyección de consultas y auditoría de bases de datos), Bash (automatización en entornos Linux). <img src="./perfil2.svg" width="350" align="right"/>
+- 📗 Herramientas de Ciberseguridad: Nmap, Masscan, Nikto, Burp Suite, Metasploit, Wireshark, Hydra, John the Ripper, Hashcat, Gobuster, Netcat.
+- 📚 Pentesting y Análisis de Vulnerabilidades: Conocimiento práctico en escaneo de puertos, enumeración de servicios, explotación básica, escalada de privilegios y reconocimiento en redes y sistemas.
+- 📙 Entornos y Sistemas Operativos: Kali Linux, Parrot OS, Windows, manejo de máquinas virtuales (VirtualBox, VMware).
+- 📓 Plataformas de Laboratorio: Hack The Box, TryHackMe (resolución de máquinas orientadas a CTF y escenarios reales).
+- 📑 Seguridad en Aplicaciones Web: OWASP Top 10, pruebas de vulnerabilidades en formularios, cookies, sesiones, y autenticación.
+- 📃 Desarrollo Web: Comprensión del ciclo de vida de aplicaciones web y su seguridad. Experiencia en HTML, CSS, JavaScript y React para identificar vectores de ataque comunes como XSS o CSRF.
+- 📖 Automatización y Análisis: Uso de Python, Pandas y herramientas como Excel para análisis de registros (logs), detección de patrones y análisis forense básico.
+- 📖 Comunicación Técnica: Documentación de hallazgos, generación de reportes de vulnerabilidades y participación en proyectos colaborativos con metodologías ágiles.
